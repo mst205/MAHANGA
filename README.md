@@ -1,7 +1,7 @@
 # MAHANGA
 MĀHANGA: Model Ānalysis: Handling biNary Grid VisuAlisation - designed for use with Aotearoa STARS
 
-Māhanga is the Māori words for twins, which is an apt description for binary stars since they are (typically) born at the same time, from the same cloud of gas.
+Māhanga is the Te Reo Māori words for twins, which is an apt description for binary stars since they are (typically) born at the same time, from the same cloud of gas.
 
 This analysis framework was designed to use information from the output files of an Aotearoa STARS simulation run, enabling a more streamlined experience when analysing a large grid of simulations. The framework can identify the simulation's final state, extract all relevant information from the out and plot files, and compile it into data frames. It also has the capability to clean and combine the stage one and stage two simulations, so that all the data for each star are contained in a single group. 
 
